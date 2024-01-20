@@ -32,3 +32,4 @@ services:
       - POSGRES_PASSWORD=changeme
 volumes:
   dev-db-data:
+  dev-static-data:
